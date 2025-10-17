@@ -1,0 +1,23 @@
+commit fd2b1c6552821d1004a2e51bad6a211bda1742e0
+Author: alx-czm <czm.alx@gmail.com>
+Date:   Thu Oct 9 15:17:05 2025 +0300
+
+    updated gitignore
+
+commit 0fc4350d2b0e1f725175a9779f1102f001a25791
+Author: alx-czm <czm.alx@gmail.com>
+Date:   Thu Oct 9 15:12:49 2025 +0300
+
+    added gitignore
+
+commit 668d395f53c94fa5523432ecb49bfda42ecee2d5
+Author: alx-czm <czm.alx@gmail.com>
+Date:   Thu Oct 9 11:06:28 2025 +0300
+
+    added two files
+
+commit 2e3bf5867f3e8c9ad365ef02f60d1c72d764d3c4
+Author: alx-czm <czm.alx@gmail.com>
+Date:   Wed Oct 8 15:59:57 2025 +0300
+
+    added readme.txt
